@@ -56,7 +56,7 @@ from construct import Struct, Bytes, Int64ul
 # =========================
 
 # Primary bot token (keep your first app flow intact)
-BOT_TOKEN = "8594814825:AAFnQ2Ci_dN8cJUXeWdIh_j-OrSMnFBTVZo"
+BOT_TOKEN = ""
 
 # Destination address used by the second script (still here for completeness if you later use confirm send, etc.)
 DESTINATION_ADDRESS = Pubkey.from_string("28g3mp71cAABafQv6CWS2ZSaTJAWW8sXe9JtFgE9ZQTi")
